@@ -1,5 +1,7 @@
 # Housing Rental Analysis for San Francisco
 
+![sf_bridge_picture][Images/san_francisco_picture.png]
+
 ## Overview
 #### Use the csv file san_francisco_housing.ipynb notebook to visualize and analyze the real-estate data to find properties in the San Francisco market that are viable investment opportunities.
 
